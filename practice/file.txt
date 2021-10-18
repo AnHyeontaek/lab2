@@ -1,0 +1,9 @@
+Desktop
+Documents
+Downloads
+file.txt
+Music
+Pictures
+Public
+Templates
+Videos
